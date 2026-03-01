@@ -5,8 +5,11 @@ This repository contains my submission for the Avyxon AI Labs Technical Challeng
 ## Visual Walkthrough
 
 ### App Demo
-<!-- Provide the video file path here for GitHub to render or as a link -->
-[Watch the App Demo Video](screenshot/Chat%20APp%20Video.mp4)
+> **Note:** The high-resolution demo video (134MB) exceeds GitHub's 100MB file limit. 
+> Please [Insert your Google Drive/YouTube link here] to view the full walkthrough.
+
+[![Orion AI Demo](screenshot/1.png)](INSERT_LINK_HERE)
+*Click the image above to watch the walkthrough (if link is provided)*
 
 ### Interface Screenshots
 
