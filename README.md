@@ -10,7 +10,7 @@ This repository contains my submission for the Avyxon AI Labs Technical Challeng
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1yXzXXlt3YDVZ43j4DixTHCPSl2_LguYH/view?usp=sharing">
-    <img src="screenshot/1.png" width="600" alt="Watch Orion AI Walkthrough">
+    <img src="screenshot/1.png" width="300" alt="Watch Orion AI Walkthrough">
   </a>
 </p>
 
