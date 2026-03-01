@@ -6,12 +6,12 @@ This repository contains my submission for the Avyxon AI Labs Technical Challeng
 
 ### App Demo
 
-[Click here to watch the Orion AI Walkthrough](screenshot/Chat%20APp%20Video.mp4)
+[Click here to watch the Orion AI Walkthrough](https://drive.google.com/file/d/1yXzXXlt3YDVZ43j4DixTHCPSl2_LguYH/view?usp=sharing)
 
 <p align="center">
-  <video src="screenshot/Chat%20APp%20Video.mp4" width="600" controls>
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://drive.google.com/file/d/1yXzXXlt3YDVZ43j4DixTHCPSl2_LguYH/view?usp=sharing">
+    <img src="screenshot/1.png" width="600" alt="Watch Orion AI Walkthrough">
+  </a>
 </p>
 
 ### Interface Screenshots
